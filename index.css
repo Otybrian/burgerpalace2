@@ -24,3 +24,7 @@ span {
     margin-top: 15px;
     margin-left: 50px;
 }
+.header {
+    background-image: -webkit-linear-gradient(160deg,#F6B400 50%, white 50%);
+    height: 650px;
+}
