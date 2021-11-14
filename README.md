@@ -24,7 +24,7 @@ https://github.com/Otybrian/burgerpalace2
 View [Live]  https://github.com/Otybrian/burgerpalace2
 ### Licence
 This project is under the  [MIT](license) license
-MercyBore/The_Burger_Palace
+Brian Odhiambo/The_Burger_Palace
 This is a simple website for a restaurant selling burgers.
 Website
 https://github.com/Otybrian/burgerpalace2
